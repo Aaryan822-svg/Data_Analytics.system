@@ -47,19 +47,19 @@ def create_product_mapping(api_products):
     """
 
     #  Initialize empty mapping dictionary
-    product_mapping = {}
+    product_mapping = {}   ## Initialize empty mapping
 
     #  Iterate through API product list
     for product in api_products:
         try:
-            product_id = product.get("id")
+            product_id = product.get("id")   ## Get product ID
             if product_id is None:
                 continue
 
             #   Extract required product fields
-            product_mapping[product_id] = {
-                "title": product.get("title"),
-                "category": product.get("category"),
+            product_mapping[product_id] = {    ## Map ID to info
+                "title": product.get("title"),    ## Product title
+                "category": product.get("category"),   ## Product category
                 "brand": product.get("brand"),
                 "rating": product.get("rating")
             }

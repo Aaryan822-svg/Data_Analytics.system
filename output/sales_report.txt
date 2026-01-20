@@ -1,0 +1,90 @@
+==============================
+       SALES ANALYTICS REPORT
+   Generated: 2026-01-20 21:50:19
+   Records Processed: 73
+==============================
+
+OVERALL SUMMARY
+------------------------------
+Total Revenue:        ₹3,548,613.00
+Total Transactions:   73
+Average Order Value:  ₹48,611.14
+Date Range:           2024-12-01 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+------------------------------
+Region    Sales        % Total   Transactions
+North     ₹1,322,549    37.27%      22
+South     ₹896,796    25.27%      14
+West      ₹848,902    23.92%      19
+East      ₹467,969    13.19%      17
+          ₹12,397     0.35%      1
+
+TOP 5 PRODUCTS
+------------------------------
+1. Mouse | Qty: 61 | Revenue: ₹40,297.00
+2. Wireless Mouse | Qty: 52 | Revenue: ₹62,378.00
+3. USB Cable | Qty: 37 | Revenue: ₹8,566.00
+4. Webcam | Qty: 35 | Revenue: ₹128,187.00
+5. Monitor | Qty: 30 | Revenue: ₹493,759.00
+
+TOP 5 CUSTOMERS
+------------------------------
+1. C004 | Spent: ₹857,124.00 | Orders: 3
+2. C017 | Spent: ₹762,460.00 | Orders: 1
+3. C010 | Spent: ₹457,186.00 | Orders: 3
+4. C024 | Spent: ₹261,848.00 | Orders: 3
+5. C008 | Spent: ₹216,176.00 | Orders: 5
+
+DAILY SALES TREND
+------------------------------
+2024-12-01 | ₹123,969.00 | 3 | 2
+2024-12-02 | ₹882,906.00 | 5 | 5
+2024-12-03 | ₹61,851.00 | 5 | 5
+2024-12-05 | ₹257.00 | 1 | 1
+2024-12-06 | ₹34,072.00 | 1 | 1
+2024-12-07 | ₹204,912.00 | 10 | 7
+2024-12-08 | ₹70,383.00 | 3 | 3
+2024-12-09 | ₹25,339.00 | 4 | 4
+2024-12-10 | ₹1,550.00 | 1 | 1
+2024-12-11 | ₹13,207.00 | 2 | 2
+2024-12-13 | ₹417,923.00 | 3 | 3
+2024-12-14 | ₹45,349.00 | 2 | 2
+2024-12-15 | ₹818,960.00 | 1 | 1
+2024-12-16 | ₹3,020.00 | 1 | 1
+2024-12-17 | ₹114,356.00 | 1 | 1
+2024-12-18 | ₹81,284.00 | 2 | 1
+2024-12-20 | ₹594.00 | 1 | 1
+2024-12-21 | ₹25,992.00 | 1 | 1
+2024-12-22 | ₹89,645.00 | 6 | 6
+2024-12-23 | ₹768.00 | 1 | 1
+2024-12-24 | ₹161,907.00 | 4 | 4
+2024-12-25 | ₹30,455.00 | 4 | 4
+2024-12-26 | ₹42,626.00 | 3 | 1
+2024-12-27 | ₹119,313.00 | 2 | 2
+2024-12-29 | ₹18,005.00 | 3 | 3
+2024-12-30 | ₹159,970.00 | 3 | 3
+
+API ENRICHMENT SUMMARY
+------------------------------
+Total Enriched: 0
+Success Rate:   0.00%
+Failed Products:
+- Wireless Mouse Gaming
+- Mouse
+- USB Cable
+- Laptop
+- Laptop Charger 65W
+- Wireless Mouse
+- Monitor
+- Laptop Charger
+- External Hard Drive
+- Keyboard
+- Headphones
+- Webcam
+- External Hard Drive 1TB
+- Laptop Premium
+- Mouse Wireless
+- Keyboard Mechanical
+- Webcam HD
+- Monitor LED
